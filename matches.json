@@ -42,7 +42,7 @@
     "mandante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
     "visitante": {
       "nome": "Uruguai",
@@ -59,7 +59,7 @@
     "mandante": {
       "nome": "Uruguai",
       "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
       "nome": "Chile",
