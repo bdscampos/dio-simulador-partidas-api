@@ -32,5 +32,38 @@
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "La Bombonera",
+      "imagem" : "TODO"
+    },
+    "mandante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Centenário",
+      "imagem" : "TODO"
+    },
+    "mandante": {
+      "nome": "Uruguai",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Chile",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
   }
 ]
